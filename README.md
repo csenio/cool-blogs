@@ -1,5 +1,6 @@
 # cool-blogs
 
+ - https://medium.com/@maxim.koretskyi
  - https://jxnblk.com/blog/
  - https://kentcdodds.com/
  - https://overreacted.io/
