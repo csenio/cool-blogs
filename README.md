@@ -8,3 +8,4 @@
  - https://nextjs.org/blog
  - https://www.swyx.io/
  - https://mxstbr.blog/
+ - https://www.taniarascia.com/everything-i-know-as-a-software-developer-without-a-degree/
