@@ -7,3 +7,4 @@
  - https://www.robinwieruch.de/
  - https://nextjs.org/blog
  - https://www.swyx.io/
+ - https://mxstbr.blog/
