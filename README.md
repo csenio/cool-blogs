@@ -10,3 +10,4 @@
  - https://mxstbr.blog/
  - https://www.taniarascia.com/everything-i-know-as-a-software-developer-without-a-degree/
  - https://gist.github.com/sebmarkbage/75f0838967cd003cd7f9ab938eb1958f
+ - https://reactresources.com
